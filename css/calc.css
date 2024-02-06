@@ -1,0 +1,25 @@
+section .result {
+    background-color: #848695;
+    color: white;
+    margin-top: 50px;
+}
+
+section .grey {
+    background-color: #e0e0e0;
+    color: black;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: #848695 0.5px solid;
+}
+
+section .orange {
+    background-color: #f5923d;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: #848695 0.5px solid;
+}
